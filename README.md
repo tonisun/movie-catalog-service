@@ -1,2 +1,2 @@
 # movie-catalog-service
-Java Spring Boot Web API 
+Java Spring Web API -> Microservice
