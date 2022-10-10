@@ -8,7 +8,7 @@
 		<version>3.0.0-SNAPSHOT</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>de.egosanto.ms.movie</groupId>
+	<groupId>de.egosanto.ms.moviecatalog</groupId>
 	<artifactId>movie-catalog-service</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>movie-catalog-service</name>

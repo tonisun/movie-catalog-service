@@ -1,4 +1,4 @@
-package de.egosanto.ms.movie;
+package de.egosanto.ms.moviecatalog;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
